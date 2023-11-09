@@ -1,0 +1,273 @@
+[{
+  "name": "Alice",
+  "age": 28,
+  "email": "alice@example.com",
+  "address": {
+    "street": "321 Elm St",
+    "city": "Anothertown",
+    "state": "NY",
+    "zip": "54321"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-4444"
+    },
+    {
+      "type": "work",
+      "number": "555-555-5555"
+    }
+  ]
+},
+{
+  "name": "Bob",
+  "age": 35,
+  "email": "bob@example.com",
+  "address": {
+    "street": "123 Oak Ave",
+    "city": "Sometown",
+    "state": "CA",
+    "zip": "12345"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-1234"
+    },
+    {
+      "type": "work",
+      "number": "555-555-6789"
+    }
+  ]
+},
+{
+  "name": "Charlie",
+  "age": 42,
+  "email": "charlie@example.com",
+  "address": {
+    "street": "456 Pine Rd",
+    "city": "Anothercity",
+    "state": "TX",
+    "zip": "98765"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-7777"
+    },
+    {
+      "type": "work",
+      "number": "555-555-8888"
+    }
+  ]
+},
+{
+  "name": "David",
+  "age": 31,
+  "email": "david@example.com",
+  "address": {
+    "street": "789 Maple Ln",
+    "city": "Yetanotherplace",
+    "state": "FL",
+    "zip": "23456"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-3333"
+    },
+    {
+      "type": "work",
+      "number": "555-555-2222"
+    }
+  ]
+},
+{
+  "name": "Eve",
+  "age": 29,
+  "email": "eve@example.com",
+  "address": {
+    "street": "654 Birch Rd",
+    "city": "Cityville",
+    "state": "WA",
+    "zip": "65432"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-1111"
+    },
+    {
+      "type": "work",
+      "number": "555-555-9999"
+    }
+  ]
+},
+{
+  "name": "Frank",
+  "age": 37,
+  "email": "frank@example.com",
+  "address": {
+    "street": "987 Cedar St",
+    "city": "Townsville",
+    "state": "AZ",
+    "zip": "78901"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-7777"
+    },
+    {
+      "type": "work",
+      "number": "555-555-4444"
+    }
+  ]
+},
+{
+  "name": "Grace",
+  "age": 25,
+  "email": "grace@example.com",
+  "address": {
+    "street": "1111 Redwood Ave",
+    "city": "Newtown",
+    "state": "NV",
+    "zip": "11223"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-5555"
+    },
+    {
+      "type": "work",
+      "number": "555-555-3333"
+    }
+  ]
+},
+{
+  "name": "Henry",
+  "age": 33,
+  "email": "henry@example.com",
+  "address": {
+    "street": "2222 Oak Rd",
+    "city": "Rivercity",
+    "state": "GA",
+    "zip": "22211"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-8888"
+    },
+    {
+      "type": "work",
+      "number": "555-555-6666"
+    }
+  ]
+},
+{
+  "name": "Ivy",
+  "age": 28,
+  "email": "ivy@example.com",
+  "address": {
+    "street": "3333 Willow Ln",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "33344"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-2222"
+    },
+    {
+      "type": "work",
+      "number": "555-555-9999"
+    }
+  ]
+},
+{
+  "name": "Jack",
+  "age": 30,
+  "email": "jack@example.com",
+  "address": {
+    "street": "4444 Pine Rd",
+    "city": "Mountainville",
+    "state": "CO",
+    "zip": "44433"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-7777"
+    },
+    {
+      "type": "work",
+      "number": "555-555-4444"
+    }
+  ]
+},
+{
+  "name": "Karen",
+  "age": 29,
+  "email": "karen@example.com",
+  "address": {
+    "street": "5555 Cedar Ave",
+    "city": "Lakeview",
+    "state": "WI",
+    "zip": "55522"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-3333"
+    },
+    {
+      "type": "work",
+      "number": "555-555-2222"
+    }
+  ]
+},
+{
+  "name": "Larry",
+  "age": 34,
+  "email": "larry@example.com",
+  "address": {
+    "street": "6666 Elm St",
+    "city": "Countryside",
+    "state": "IL",
+    "zip": "66611"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-6666"
+    },
+    {
+      "type": "work",
+      "number": "555-555-9999"
+    }
+  ]
+},
+{
+  "name": "Megan",
+  "age": 27,
+  "email": "megan@example.com",
+  "address": {
+    "street": "7777 Oak Ave",
+    "city": "Ruralville",
+    "state": "OH",
+    "zip": "77788"
+  },
+  "phone": [
+    {
+      "type": "home",
+      "number": "555-555-7777"
+    },
+    {
+      "type": "work",
+      "number": "555-555-4444"
+    }
+  ]
+}]
