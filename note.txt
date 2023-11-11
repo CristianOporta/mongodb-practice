@@ -1,0 +1,3 @@
+db.collection.createIndex()
+db.collection.getIndexes()
+db.collection.query.explain(executionStats)
